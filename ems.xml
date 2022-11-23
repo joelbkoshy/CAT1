@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="ems.xsl" type="text/xsl"?>
+<?xml-model href="emx.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<company  xmlns:xsi="http://www.w3.org/2001/XMLSchema">
+     <employee>
+         <emp-name>Arun B Nair</emp-name>
+         <emp-age>37</emp-age>
+         <emp-salary>45875</emp-salary>
+         <emp-emailid>arunbnair@gmail.com</emp-emailid>
+         <emp-phonenum>9878675434</emp-phonenum>
+         <emp-designation>Technical Recruiter</emp-designation>
+     </employee>
+
+          <employee>
+         <emp-name>Joel B Koshy</emp-name>
+         <emp-age>27</emp-age>
+         <emp-salary>121375</emp-salary>
+         <emp-emailid>joelbkoshy@gmail.com</emp-emailid>
+         <emp-phonenum>9878672134</emp-phonenum>
+         <emp-designation>HR Executive</emp-designation>
+     </employee>
+
+          <employee>
+         <emp-name>Sachin Krishna</emp-name>
+         <emp-age>22</emp-age>
+         <emp-salary>113875</emp-salary>
+         <emp-emailid>sachin21@gmail.com</emp-emailid>
+         <emp-phonenum>9844675434</emp-phonenum>
+         <emp-designation>Full Stack Developer</emp-designation>
+     </employee>
+
+          <employee>
+         <emp-name>Rahul Rao</emp-name>
+         <emp-age>19</emp-age>
+         <emp-salary>75875</emp-salary>
+         <emp-emailid>rahulrao@gmail.com</emp-emailid>
+         <emp-phonenum>8878675434</emp-phonenum>
+         <emp-designation>System Administrator</emp-designation>
+     </employee>
+     <employee>
+         <emp-name>Ben George</emp-name>
+         <emp-age>18</emp-age>
+         <emp-salary>65365</emp-salary>
+         <emp-emailid>bgeorge@gmail.com</emp-emailid>
+         <emp-phonenum>9855575434</emp-phonenum>
+         <emp-designation>Data Analayst (Intern) </emp-designation>
+     </employee>
+</company>
